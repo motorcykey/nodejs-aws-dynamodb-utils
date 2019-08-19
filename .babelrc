@@ -1,0 +1,6 @@
+{
+    'presets': [
+        [ '@babel/env', { 'useBuiltIns': 'usage', 'debug': true} ],
+        [ '@babel/react' ]
+    ]
+}
